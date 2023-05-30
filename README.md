@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/jtorrpab">GitHub</a> or <a href="[https://github.com/jtorrpab](https://gitlab.com/jtorrpab)">Gitlab</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/jtorrpab">GitHub</a> or <a href="https://gitlab.com/jtorrpab">GitLab</a>
 
 - 💬 Ask me about **Python or Java**
 
