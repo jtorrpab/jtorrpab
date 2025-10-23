@@ -3,9 +3,9 @@
 
 - 🌱 I’m a software developer
 
-- 👯 I’m looking to collaborate on **Innovate projects**
+- 👯 I’m looking to collaborate on **Innovative projects**
 
-- 🤝 I’m looking for help with **Appasionate people**
+- 🤝 I’m looking for help with **passionate people**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/jtorrpab">GitHub</a> or <a href="https://gitlab.com/jtorrpab">GitLab</a>
 
