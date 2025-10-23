@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juan pablo Torrres</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Django and Spring boot**
+- 🌱 I’m a software developer
 
-- 👯 I’m looking to collaborate on **Backend projects**
+- 👯 I’m looking to collaborate on **Innovate projects**
 
-- 🤝 I’m looking for help with **Backend projects**
+- 🤝 I’m looking for help with **Appasionate people**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/jtorrpab">GitHub</a> or <a href="https://gitlab.com/jtorrpab">GitLab</a>
 
-- 💬 Ask me about **Python or Java**
+- 💬 Ask me about **Python, AWS, Node.js**
 
 - 📫 How to reach me **juanpablotorresp.17@gmail.com**
 
